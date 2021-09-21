@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+	
+}
+.container {
+	width: 500px;
+	padding: 100px;
+	
+}
+.box {
+	border: 15px solid rgb(255, 251, 0);
+	width: 200px;
+	height: 30px;
+	font-family: verdana;
+	padding: 25px;
+}
+ul {
+	list-style-type: none;
+}
+.hide-menu {
+	display: none
+}
+.Grey {
+	background-color: rgb(209, 203, 203);
+}
+.Red {
+	background-color: rgb(211, 1, 1);
+}
+.Orange {
+	background-color: rgb(248, 145, 11);
+}
+.Purple {
+	background-color: rgb(179, 15, 179);
+}
+.Green {
+	background-color: rgb(19, 163, 96);
+}
